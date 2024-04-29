@@ -13,6 +13,5 @@ You can reach me on:
 - DISCORD: iissraael
 - INSTAGRAM: israildemerci
 
-TESTING AREA
-- 
-im dumb hold on idk how to do this
+## TESTING AREA
+<a href="https://demerci.github.io/home/aboutme/">About Me</a>
