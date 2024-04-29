@@ -1,6 +1,4 @@
 ​
-# Ruh: ABOUT ME
-
 # Information
 - Name: İsrail Demerci
 - Religion: Islam
