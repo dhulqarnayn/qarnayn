@@ -1,4 +1,6 @@
-[[Go back](README.md)]
+Lorem ipsum dolor sit amet
+
+[[Home](README.md)] [[About Me](ABOUT.md)]
 -
 
 # Information
