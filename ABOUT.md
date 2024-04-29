@@ -1,5 +1,4 @@
 [[Home](README.md)] [[About Me](ABOUT.md)]
-
 # RUH: About Me
 
 # Information
