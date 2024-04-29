@@ -1,3 +1,6 @@
+[[Home](README.md)] [[About Me](ABOUT.md)]
+-
+
 This webpage is something I made up for no reason what so ever so enjoy when I add things here.
 
 ## League Patch Notes
