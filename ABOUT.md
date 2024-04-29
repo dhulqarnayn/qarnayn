@@ -1,8 +1,6 @@
 RUH: About Me
 -
-
 [[Home](README.md)] [[About Me](ABOUT.md)]
--
 
 # Information
 - Name: İsrail Demerci
