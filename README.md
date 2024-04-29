@@ -13,4 +13,4 @@ You can reach me on:
 - INSTAGRAM: israildemerci
 
 ## TESTING AREA
-<a href="https://demerci.github.io/aboutme/">About Me</a>
+[About Me](ABOUT.md)
