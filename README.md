@@ -8,8 +8,6 @@ only the important things ofc ofc
 - HWEI: Bonus magic damage scaling (30% => 35%) for Hwei's passive
 - R̴͜͠Y̷̠̎Z̶̰̈́E̵̎ : W slow increased from 35% to 50%, base cooldown on W has been decreased  P̷L̴A̵N̶E̷N̷
 
-
-
 ## Social Media
 You can reach me on:
 - DISCORD: iissraael
@@ -17,4 +15,4 @@ You can reach me on:
 
 TESTING AREA
 - 
-The background color is `#000000` for light mode and `#ffffff` for dark mode.
+im dumb hold on idk how to do this
