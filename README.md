@@ -1,11 +1,7 @@
-# ruh
-website prototype
+# RUH WEBSİTE
+This webpage is something İ made up for no reason what so ever so enjoy when İ add things here.
 
-### duh
-## auh
-# ruh
-
-aaa
--aaha
--
-- testing
+## Social media
+You can reach me on:
+- DISCORD: iissraael
+- INSTAGRAM: israildemerci
