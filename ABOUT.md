@@ -1,14 +1,10 @@
 [[Home](README.md)] [[About Me](ABOUT.md)]
 
-RUH: About Me
--
+# RUH: About Me
 
 # Information
-- Name: İsrail Demerci
-- Religion: Islam
-
-## Social Media
-You can reach me on:
+- NAME: İsrail Demerci
+- RELIGION: Islam
 - DISCORD: iissraael
 - INSTAGRAM: israildemerci
 
