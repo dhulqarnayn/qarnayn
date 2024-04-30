@@ -1,4 +1,5 @@
-[[Home](index.md)] [[About Me](ABOUT.md)]
+[[Home](index.md)] [[About Me](ABOUT.md)] [[Notes](NOTES.md)]
+
 # RUH: About Me
 
 # Information
