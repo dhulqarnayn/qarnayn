@@ -2,6 +2,12 @@
 
 # RUH
 
+# Important
+1. 30.04.2024    
+  i. I changed the style of the website, still changing stuff.    
+  ii. Added [NOTES](NOTES.md), I'll move some things there and keep it like an archive or just say non-important things there. Perhaps Nimari will see it.
+  iii. Working on adding disqus chats here.
+
 # League Patch Notes
 only the important things ofc ofc
 - Vanguard is officially on for the Philippines 
