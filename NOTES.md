@@ -2,5 +2,5 @@
 
 # RUH: Notes
 
-# Lorem ipsum
-Lorem ispum dolor sit amet
+# Website things
+Honestly I have zero clue what I am doing, but I am doing it!
