@@ -3,10 +3,10 @@
 # RUH: About Me
 
 # Information
-1. About me
+1. About me    
   i. Name: İsrail    
   ii. From: Bulgaria
-2. Social media
+2. Social media    
   i. Discord: demerciy    
   ii. Instagram: israildemerci    
 
