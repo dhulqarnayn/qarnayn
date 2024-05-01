@@ -8,3 +8,7 @@ The quotes that made it and that didn't made it to the official #quotes. (if thi
 ![Quote1](/images/quote1.jpg)
 ![Quote2](/images/quote2.jpg)
 ![Quote3](/images/quote3.png)
+![Quote4](/images/quote4.png)
+![Quote5](/images/quote5.jpg)
+![Quote6](/images/quote6.jpg)
+![Quote7](/images/quote7.jpg)
