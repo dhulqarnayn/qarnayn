@@ -9,7 +9,7 @@
   i. Name: Qarnayn    
   ii. From: Bulgaria
 2. Social media    
-  i. Discord: demerciy    
+  i. Discord: _qarnayn    
   ii. Instagram: israildemerci
 
 <img src="images/icon.jpg" width="150" height="150">
