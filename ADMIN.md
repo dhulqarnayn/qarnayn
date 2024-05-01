@@ -1,4 +1,4 @@
-[[Home](index.md)] [[About Me](ABOUT.md)] [[Notes](NOTES.md)] [[Admin](ADMIN.md)]
+[[Home](index.md)] [[About Me](ABOUT.md)] [[Notes](NOTES.md)] [[Admin](ADMIN.md)] [[Discord](DISCORD.md)]
 
 # RUH: Admin
 
