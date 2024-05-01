@@ -1,5 +1,6 @@
 <head>
-<link rel="shortcut icon" type="image/png" href="favicon.png">
+<icon></icon>
+<link rel="stylesheet" href="/favicon.ico">
 </head>
 
 [[Home](index.md)] [[About Me](ABOUT.md)] [[Notes](NOTES.md)] [[Discord](DISCORD.md)]
