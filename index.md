@@ -3,7 +3,7 @@
 # RUH
 
 # Important
-1. 01.05.2024
+1. 01.05.2024    
    i. Adding a Discord section because why not. 🥰
 1. 30.04.2024    
   i. I changed the style of the website, still changing stuff.    
