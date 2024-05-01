@@ -9,7 +9,8 @@
    i. Adding a Discord section because why not. 🥰    
    ii. Now using Github Desktop and Intellij to write the website so now I no longer have to make 100 changes. 😎     
    iii. Changed the name of the website from RUH to QARNAYN      
-   iv. ACCIDENTALLY RUINED THE WEBSITE FOR A SOLID 3 MINUTES
+   iv. ACCIDENTALLY RUINED THE WEBSITE FOR A SOLID 3 MINUTES    
+   v. Identified an issue, can't go back once you're in the Quotes section.
 
 # Discord
 1. I should probably just send a Discord invite link here.     
