@@ -1,6 +1,6 @@
 [[Home](index.md)] [[About Me](ABOUT.md)] [[Notes](NOTES.md)] [[Discord](DISCORD.md)]
 
-# RUH: Discord
+# QARNAYN: Discord
 All quotes are from [The Abrahamics](https://discord.gg/the-abrahamics-853686659099000873) discord server.  
 
 # Quotes

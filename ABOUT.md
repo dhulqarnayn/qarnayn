@@ -1,10 +1,14 @@
+<head>
+<link rel="shortcut icon" type="image/png" href="favicon.png">
+</head>
+
 [[Home](index.md)] [[About Me](ABOUT.md)] [[Notes](NOTES.md)] [[Discord](DISCORD.md)]
 
-# RUH: About Me
+# QARNAYN: About Me
 
 # Information
 1. About me    
-  i. Name: İsrail    
+  i. Name: Qarnayn    
   ii. From: Bulgaria
 2. Social media    
   i. Discord: demerciy    
