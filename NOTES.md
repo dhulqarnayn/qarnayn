@@ -12,7 +12,9 @@
   iv. about to add an easter egg for Nimari, and our random, bookloving, unseeable visitor that decided to save me one day.     
   v. Now using Github Desktop and Intellij to write the website so now I no longer have to make 100 changes. 😎     
   vi. Changed the name of the website from RUH to QARNAYN     
-  vii. iv. ACCIDENTALLY RUINED THE WEBSITE FOR A SOLID 3 MINUTES
+  vii. ACCIDENTALLY RUINED THE WEBSITE FOR A SOLID 3 MINUTES    
+  viii. Identified an issue, can't go back once you're in the Quotes section.    
+  ix. Solved the problem, works normally now.
 
 
 - 30.04.2024    
