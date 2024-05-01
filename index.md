@@ -4,7 +4,8 @@
 
 # Important
 1. 01.05.2024    
-   i. Adding a Discord section because why not. 🥰
+   i. Adding a Discord section because why not. 🥰    
+   ii. Now using Github Desktop and Intellij to write the website so now I no longer have to make 100 changes. 😎
 1. 30.04.2024    
   i. I changed the style of the website, still changing stuff.    
   ii. Added [NOTES](NOTES.md), I'll move some things there and keep it like an archive or just say non-important things there. Perhaps Nimari will see it.    
@@ -20,4 +21,4 @@ remind me next time to add lorem ipsum placeholder
 
 # TESTING AREA
 [Discord](DISCORD.md)      
-btw doesnt work if u click it fyi
+btw doesn't work if u click it fyi - it now works.

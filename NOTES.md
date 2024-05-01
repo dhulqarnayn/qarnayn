@@ -7,7 +7,8 @@
   i.Adding a Discord section because why not. 🥰    
   ii. Honestly I shouldn't actually add a disqus chat here.    
   iii. I'm about to add redirects only to [Home](index.md) it's getting a bit too much (unnecessary) work to change EVERY file and release it.    
-  iv. about to add an easter egg for Nimari, and our random, bookloving, unseeable visitor that decided to save me one day.
+  iv. about to add an easter egg for Nimari, and our random, bookloving, unseeable visitor that decided to save me one day.     
+  v. Now using Github Desktop and Intellij to write the website so now I no longer have to make 100 changes. 😎
 
 - 30.04.2024    
   i. Honestly I have zero clue what I am doing, but I am doing it!    
