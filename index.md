@@ -14,13 +14,13 @@
    vi. Solved the problem, works normally now.
 - notes is so fire ngl
 
-# Discord
+# News
+- [Quotes 01/05/2024](/quotes/01052024.md) is now published.
 1. I should probably just send a Discord invite link here.     
   i. And make a whole section in this website about #quotes.     
-  ii. and some honourable mentions need to be said. Actually I'll do it ✨    
+  ii. and some honourable mentions need to be said. Actually I'll do it ✨   
+  iii. [QARNAYN: Discord](DISCORD.md) is now published.
 
-remind me next time to add lorem ipsum placeholder    
-- I added a lorem ipsum place holder. 💪
 
 # TESTING AREA
 [Discord](DISCORD.md)      
