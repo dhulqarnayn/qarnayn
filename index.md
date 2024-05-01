@@ -9,13 +9,15 @@
     i. Organized the Quotes internally for easier setup.   
     ii. Requests for Quotes is now available. Know where to reach me at my [About Me](ABOUT.md)    
     iii. Added an Icon to the webpage and also in the [About Me](ABOUT.md)     
-1. 01.05.2024    
+   iv. Working on adding an E-Mail where you can directly connect with me and send me your ideas and quotes.
+2. 01.05.2024    
    i. Adding a Discord section because why not. 🥰    
    ii. Now using Github Desktop and Intellij to write the website so now I no longer have to make 100 changes. 😎     
    iii. Changed the name of the website from RUH to QARNAYN      
    iv. ACCIDENTALLY RUINED THE WEBSITE FOR A SOLID 3 MINUTES    
    v. Identified an issue, can't go back once you're in the Quotes section.    
-   vi. Solved the problem, works normally now.
+   vi. Solved the problem, works normally now. 
+
 - notes is so fire ngl
 
 # News
