@@ -19,4 +19,5 @@ remind me next time to add lorem ipsum placeholder
 - I added a lorem ipsum place holder. 💪
 
 # TESTING AREA
-I moved TESTING AREA to [here](NOTES.md).
+[Discord](DISCORD.md)      
+btw doesnt work if u click it fyi
