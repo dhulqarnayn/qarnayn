@@ -10,7 +10,9 @@
   ii. From: Bulgaria
 2. Social media    
   i. Discord: demerciy    
-  ii. Instagram: israildemerci    
+  ii. Instagram: israildemerci
+
+<img src="images/icon.jpg" width="150" height="150">
 
 # Interests
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
