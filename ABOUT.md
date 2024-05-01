@@ -1,7 +1,4 @@
-<head>
-<icon></icon>
-<link rel="stylesheet" href="/favicon.ico">
-</head>
+<link rel="icon" href="favicon.ico">
 
 [[Home](index.md)] [[About Me](ABOUT.md)] [[Notes](NOTES.md)] [[Discord](DISCORD.md)]
 
