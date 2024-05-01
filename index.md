@@ -5,6 +5,10 @@
 # QARNAYN
 
 # Important
+1. 02.05.2024   
+    i. Organized the Quotes internally for easier setup.   
+    ii. Requests for Quotes is now available. Know where to reach me at my [About Me](ABOUT.md)    
+    iii. Added an Icon to the webpage and also in the [About Me](ABOUT.md)     
 1. 01.05.2024    
    i. Adding a Discord section because why not. 🥰    
    ii. Now using Github Desktop and Intellij to write the website so now I no longer have to make 100 changes. 😎     
@@ -16,6 +20,7 @@
 
 # News
 - [Quotes 01/05/2024](/quotes/01052024.md) is now published.
+- [Quotes 02/05/2024](/quotes/02052024/02052024.md) is now compiling. Waiting for your awesome quotes! 🌠   
 1. I should probably just send a Discord invite link here.     
   i. And make a whole section in this website about #quotes.     
   ii. and some honourable mentions need to be said. Actually I'll do it ✨   
