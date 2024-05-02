@@ -12,6 +12,21 @@ Categorized them in their own directories
 - [02.05.2024](/quotes/02052024/02052024.md) - compiling
 - [01.05.2024](/quotes/01052024.md)    
 
+# Honourable servants
+- Without them quotes would be really empty   
+
+i. Behe (been banned 3 times already from discord)   
+ii. Octo (big chadus)    
+iii. Victor(ia)    
+iv. Ayman (please find him a wife)    
+v. Alithron (smart)     
+vi. Qashi (yoshi thy sqoshy)    
+vii. Memelogicmind (ukthi?)     
+viii. Ford Falcon XR6 (got the rizz)     
+ix. Will (the one being rizz'd)     
+x. Pale (banned :( )    
+xi. jurrasiczilla (wth is your name bro | epico 2)
+
 # Requests
 If you want a specific message(s) to be archived then please contact me on Discord
 and I will add them.
