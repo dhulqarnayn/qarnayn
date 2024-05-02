@@ -6,9 +6,10 @@
 
 # Important
 
-<h3>!!!PLEASE READ!!!</h3>
-- THE WEBSITE'S URL WILL CHANGE TO https://qarnayn.github.io/qarnayn (CHANGED DEMERCI TO QARNAYN BEFORE "GITHUB")
-- Expect the website to brake for 10 minutes. Sorry for that.
+<h2>HOTFIX</h2>
+- UPDATED THE WEBSITE'S URL TO DHULQARNAYN.GITHUB.IO/QARNAYN
+- The website WAS DOWN FOR 5 minutes. Sorry for that.
+- The PREVIOUS website name WAS demerci.github.io/qarnayn
 
 Currently changing the theme and modifying the theme to something more colourful.
 - [Quotes 01/05/2024](/quotes/01052024.md) is now published.
@@ -25,7 +26,7 @@ Currently changing the theme and modifying the theme to something more colourful
    vi. That disqus thing probably will be delayed for idk when.    
    vii. Changed the theme to Cayman from Tactile. Now it's more colorful.    
    viii. Separated the testing area from the main page.       
-   ix. Changed the website's URL from demerci.github to qarnayn.github
+   ix. Changed the website's URL from demerci.github to dhulqarnayn.github
 
 # TESTING AREA
 [QARNAYN: Testing Area](/test/testzone.md)   
