@@ -7,7 +7,7 @@
 # Information
 1. About me    
   i. Name: Qarnayn    
-  ii. From: Bulgaria
+  ii. From: Bulgaria        
   iii. Hanafi Muslim
 3. Social media    
   i. Discord: _qarnayn    
