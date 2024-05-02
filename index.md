@@ -1,14 +1,4 @@
 <link rel="icon" href="favicon.ico">
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-1YHLXP6K1H"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-gtag('config', 'G-1YHLXP6K1H');
-</script>
-
 
 [[Home](index.md)] [[About Me](ABOUT.md)] [[Notes](NOTES.md)] [[Discord](DISCORD.md)]
 
@@ -26,8 +16,7 @@ gtag('config', 'G-1YHLXP6K1H');
    iii. Added an Icon to the webpage and also in the [About Me](ABOUT.md)     
    iv. Working on adding an E-Mail where you can directly connect with me and send me your ideas and quotes.     
    v. rawr. I should probably add some honourable mentions for Discord.     
-   vi. That disqus thing probably will be delayed for idk when.    
-   vii. Working on  adding Google Analytics to the website
+   vi. That disqus thing probably will be delayed for idk when.
 
 # TESTING AREA
-Google analytics test
+hm.
