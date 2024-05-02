@@ -1,6 +1,6 @@
 <link rel="icon" href="favicon.ico">
 
-[[Home](index.md)] [[About Me](ABOUT.md)] [[Notes](NOTES.md)] [[Discord](DISCORD.md)]
+[QARNAYN: Homepage](https://demerci.github.io/qarnayn/index.html)
 
 # QARNAYN
 
