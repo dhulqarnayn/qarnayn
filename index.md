@@ -1,25 +1,10 @@
 <link rel="icon" href="favicon.ico">
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-1YHLXP6K1H"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-gtag('config', 'G-1YHLXP6K1H');
-</script>
-
 
 [[Home](index.md)] [[About Me](ABOUT.md)] [[Notes](NOTES.md)] [[Discord](DISCORD.md)]
 
 # QARNAYN
 
 # Important
-
-<h2>HOTFIX</h2>
-- UPDATED THE WEBSITE'S URL TO DHULQARNAYN.GITHUB.IO/QARNAYN
-- The website WAS DOWN FOR 5 minutes. Sorry for that.
-- The PREVIOUS website name WAS demerci.github.io/qarnayn
 
 Currently changing the theme and modifying the theme to something more colourful.
 - [Quotes 01/05/2024](/quotes/01052024.md) is now published.
