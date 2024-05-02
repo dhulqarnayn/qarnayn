@@ -16,8 +16,8 @@
    iii. Added an Icon to the webpage and also in the [About Me](ABOUT.md)     
    iv. Working on adding an E-Mail where you can directly connect with me and send me your ideas and quotes.     
    v. rawr. I should probably add some honourable mentions for Discord.     
-   vi. That disqus thing probably will be delayed for idk when.
+   vi. That disqus thing probably will be delayed for idk when.    
+   vii. Working on  adding Google Analytics to the website
 
 # TESTING AREA
-[Discord](DISCORD.md)      
-btw doesn't work if u click it fyi - it now works.
+Google analytics test
