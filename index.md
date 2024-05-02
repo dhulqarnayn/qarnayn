@@ -1,13 +1,13 @@
 <link rel="icon" href="favicon.ico">
 
-[[Home](index.md)] [[About Me](ABOUT.md)] [[Notes](NOTES.md)] [[Discord](DISCORD.md)]
+[[Home](index.md)] [[About Me](ABOUT.md)] [[Notes](NOTES.md)] [[Discord](DISCORD.md)] [[News](news.md)]
 
 # QARNAYN
 
 # Important
 - Identified an issue with redirects back to the Homepage. Working on solving them
 - Resolved
-- Added a News page, soon I'll add it to the navigation bar
+- Added a proper News page, soon I'll add it to the navigation bar
 
 Currently changing the theme and modifying the theme to something more colourful.
 - [Quotes 01/05/2024](/quotes/01052024.md) is now published.

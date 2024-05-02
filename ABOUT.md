@@ -1,6 +1,6 @@
 <link rel="icon" href="favicon.ico">
 
-[[Home](index.md)] [[About Me](ABOUT.md)] [[Notes](NOTES.md)] [[Discord](DISCORD.md)]
+[[Home](index.md)] [[About Me](ABOUT.md)] [[Notes](NOTES.md)] [[Discord](DISCORD.md)] [[News](news.md)]
 
 # QARNAYN: About Me
 
