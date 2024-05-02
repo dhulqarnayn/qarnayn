@@ -5,6 +5,7 @@
 # QARNAYN
 
 # Important
+Currently changing the theme and modifying the theme to something more colourful.
 - [Quotes 01/05/2024](/quotes/01052024.md) is now published.
 - [Quotes 02/05/2024](/quotes/02052024/02052024.md) is now compiling. Waiting for your awesome quotes! 🌠
 - notes is so fire ngl
@@ -16,7 +17,8 @@
    iii. Added an Icon to the webpage and also in the [About Me](ABOUT.md)     
    iv. Working on adding an E-Mail where you can directly connect with me and send me your ideas and quotes.     
    v. rawr. I should probably add some honourable mentions for Discord.     
-   vi. That disqus thing probably will be delayed for idk when.
+   vi. That disqus thing probably will be delayed for idk when.    
+   vii. Currently changing the theme and modifying the theme to something more colourful. 
 
 # TESTING AREA
-hm.
+Going to move Testing Area to a different page. Stay tuned
