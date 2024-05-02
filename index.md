@@ -5,6 +5,7 @@
 # QARNAYN
 
 # Important
+- Identified an issue with redirects back to the Homepage. Working on solving them
 
 Currently changing the theme and modifying the theme to something more colourful.
 - [Quotes 01/05/2024](/quotes/01052024.md) is now published.
