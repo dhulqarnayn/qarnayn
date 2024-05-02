@@ -18,7 +18,9 @@ Currently changing the theme and modifying the theme to something more colourful
    iv. Working on adding an E-Mail where you can directly connect with me and send me your ideas and quotes.     
    v. rawr. I should probably add some honourable mentions for Discord.     
    vi. That disqus thing probably will be delayed for idk when.    
-   vii. Currently changing the theme and modifying the theme to something more colourful. 
+   vii. Changed the theme to Cayman from Tactile. Now it's more colorful.    
+   viii. Separated the testing area from the main page.
 
 # TESTING AREA
-Going to move Testing Area to a different page. Stay tuned
+[QARNAYN: Testing Area](/test/testzone.md)   
+Moved to [here](/test/testzone.md)
