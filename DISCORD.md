@@ -1,7 +1,7 @@
 <link rel="icon" href="favicon.ico">
 <link rel="stylesheet" href="https://dhulqarnayn.github.io/qarnayn/index.css">
 
-[[Home](index.md)] [[About Me](ABOUT.md)] [[Notes](NOTES.md)] [[Discord](DISCORD.md)] [[News](news.md)] 
+## [[Home](index.md)] [[About Me](ABOUT.md)] [[Notes](NOTES.md)] [[Discord](DISCORD.md)] [[News](news.md)]
 
 # QARNAYN: Discord
 All quotes are from [The Abrahamics](https://discord.gg/the-abrahamics-853686659099000873) discord server.     

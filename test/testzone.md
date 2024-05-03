@@ -1,7 +1,7 @@
 <link rel="icon" href="https://dhulqarnayn.github.io/qarnayn/favicon.ico">
 <link rel="stylesheet" href="https://dhulqarnayn.github.io/qarnayn/index.css">
 
-[QARNAYN: Homepage](https://dhulqarnayn.github.io/qarnayn/index.html)
+### [QARNAYN: Homepage](https://dhulqarnayn.github.io/qarnayn/index.html)
 
 # QARNAYN: Testing Area
 Most of the things here are either very broken or don't work
