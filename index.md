@@ -1,11 +1,13 @@
 <link rel="icon" href="favicon.ico">
-<link rel="stylesheet" href="index.css">
+<link rel="stylesheet" href="https://dhulqarnayn.github.io/qarnayn/index.css">
 
 [[Home](index.md)] [[About Me](ABOUT.md)] [[Notes](NOTES.md)] [[Discord](DISCORD.md)] [[News](news.md)]
 
 # QARNAYN
 
 # Important
+- Added black mode forever :). - Idea from Frazeen
+
 - [Quotes 02.05.2024](/quotes/02052024/02052024.md) is now published
 - [Quotes 03.05.2024](/quotes/03052024/03052024.md) is now compiling, please send me your quotes in DMs.
 
@@ -15,7 +17,8 @@
 
 # News
 1. 03.05.2024    
-  i. Finished compiling Quotes 02.05.2024.
+  i. Finished compiling Quotes 02.05.2024.    
+  ii. Added black mode forever :). - Idea from Frazeen
 
 
 - 02.05.2024   

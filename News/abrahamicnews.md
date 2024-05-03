@@ -1,4 +1,5 @@
 <link rel="icon" href="https://demerci.github.io/qarnayn/favicon.ico">
+<link rel="stylesheet" href="https://dhulqarnayn.github.io/qarnayn/index.css">
 
 ### [QARNAYN: News](https://dhulqarnayn.github.io/qarnayn/news.html)
 
