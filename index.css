@@ -1,3 +1,11 @@
-html, body {
-    height: 90%
+body {
+    background-color: black;
+}
+
+head {
+    background-color: black;
+}
+
+p {
+    color: white;
 }
