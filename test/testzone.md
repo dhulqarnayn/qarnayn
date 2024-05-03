@@ -1,9 +1,15 @@
-<link rel="icon" href="https://demerci.github.io/qarnayn/favicon.ico">
+<link rel="icon" href="https://dhulqarnayn.github.io/qarnayn/favicon.ico">
+<link rel="stylesheet" href="https://dhulqarnayn.github.io/qarnayn/index.css">
 
 [QARNAYN: Homepage](https://dhulqarnayn.github.io/qarnayn/index.html)
 
 # QARNAYN: Testing Area
 Most of the things here are either very broken or don't work
+
+- <p>Lorem ipsum dolor sit amet</p>
+- <h1>Lorem ipsum dolor sit amet</h1>
+1. <p>Lorem ipsum dolor sit amet</p>
+<p>Lorem ipsum dolor sit amet</p>
 
 <section id="comment-section">
 <div class="comment">

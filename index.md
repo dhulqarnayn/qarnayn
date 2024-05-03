@@ -30,5 +30,7 @@
    ix. Changed the website's URL from demerci.github to dhulqarnayn.github
 
 # TESTING AREA
+
+- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 [QARNAYN: Testing Area](/test/testzone.md)   
 Moved to [here](/test/testzone.md)
