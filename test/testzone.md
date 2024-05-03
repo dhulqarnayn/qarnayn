@@ -7,7 +7,11 @@
 Most of the things here are either very broken or don't work
 
 ### THEY DONT WORK; DONT CLICK THEM
+
 ### [[Home](index.md)] [[About Me](ABOUT.md)] [[Notes](NOTES.md)] [[Discord](DISCORD.md)] [[News](news.md)]
+
+## [[Home](index.md)] [[About Me](ABOUT.md)] [[Notes](NOTES.md)] [[Discord](DISCORD.md)] [[News](news.md)]
+
 
 ### Randomness
 - <p>Lorem ipsum dolor sit amet</p>
