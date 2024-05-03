@@ -8,8 +8,9 @@ All quotes are from [The Abrahamics](https://discord.gg/the-abrahamics-853686659
 
 # Quotes
 The quotes that made it and that didn't made it to the official #quotes.    
-Categorized them in their own directories         
-- [02.05.2024](/quotes/02052024/02052024.md) - compiling
+Categorized them in their own directories   
+- [03.05.2024](/quotes/03052024/03052024.md) - compiling
+- [02.05.2024](/quotes/02052024/02052024.md)
 - [01.05.2024](/quotes/01052024.md)    
 
 # Honourable servants

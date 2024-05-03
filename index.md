@@ -5,17 +5,19 @@
 # QARNAYN
 
 # Important
+- [Quotes 02.05.2024](/quotes/02052024/02052024.md) is now published
+- [Quotes 03.05.2024](/quotes/03052024/03052024.md) is now compiling, please send me your quotes in DMs.
+
 - Identified an issue with redirects back to the Homepage. Working on solving them
 - Resolved
 - Added a proper News page, soon I'll add it to the navigation bar
 
-Currently changing the theme and modifying the theme to something more colourful.
-- [Quotes 01/05/2024](/quotes/01052024.md) is now published.
-- [Quotes 02/05/2024](/quotes/02052024/02052024.md) is now compiling. Waiting for your awesome quotes! 🌠
-- notes is so fire ngl
-
 # News
-1. 02.05.2024   
+1. 03.05.2024    
+  i. Finished compiling Quotes 02.05.2024.
+
+
+- 02.05.2024   
    i. Organized the Quotes internally for easier setup.   
    ii. Requests for Quotes is now available. Know where to reach me at my [About Me](ABOUT.md)    
    iii. Added an Icon to the webpage and also in the [About Me](ABOUT.md)     
