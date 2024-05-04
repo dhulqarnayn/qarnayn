@@ -6,8 +6,12 @@
 # QARNAYN: Notes
 
 # Website things
+- 04.05.2024    
+  i. Been busy lately!
+
 - 03.05.2024      
-  i. Finished compiling Quotes 02.05.2024.
+  i. Finished compiling Quotes 02.05.2024.    
+  ii. Added black mode forever :). - Idea from Frazeen
 
 - 02.05.2024   
   i. Organized the Quotes internally for easier setup.   

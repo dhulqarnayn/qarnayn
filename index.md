@@ -6,34 +6,23 @@
 # QARNAYN
 
 # Important
+- Starting to work on News!
+- Been busy lately!!
 - Added black mode forever :). - Idea from Frazeen
 
 - [Quotes 02.05.2024](/quotes/02052024/02052024.md) is now published
-- [Quotes 03.05.2024](/quotes/03052024/03052024.md) is now compiling, please send me your quotes in DMs.
-
-- Identified an issue with redirects back to the Homepage. Working on solving them
-- Resolved
-- Added a proper News page, soon I'll add it to the navigation bar
+- [Quotes 04.05.2024](/quotes/04052024/04052024.md) is now compiling, please send me your quotes in DMs.
 
 # News
+1. 04.05.2024       
+  i. Been busy lately!       
+  ii. Starting to work on News now
+
 1. 03.05.2024    
   i. Finished compiling Quotes 02.05.2024.    
   ii. Added black mode forever :). - Idea from Frazeen
 
-
-- 02.05.2024   
-   i. Organized the Quotes internally for easier setup.   
-   ii. Requests for Quotes is now available. Know where to reach me at my [About Me](ABOUT.md)    
-   iii. Added an Icon to the webpage and also in the [About Me](ABOUT.md)     
-   iv. Working on adding an E-Mail where you can directly connect with me and send me your ideas and quotes.     
-   v. rawr. I should probably add some honourable mentions for Discord.     
-   vi. That disqus thing probably will be delayed for idk when.    
-   vii. Changed the theme to Cayman from Tactile. Now it's more colorful.    
-   viii. Separated the testing area from the main page.       
-   ix. Changed the website's URL from demerci.github to dhulqarnayn.github
-
 # TESTING AREA
 
-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 [QARNAYN: Testing Area](/test/testzone.md)   
 Moved to [here](/test/testzone.md)
