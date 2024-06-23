@@ -6,7 +6,7 @@
 # QARNAYN: Discord
 All quotes are from The Abrahamics discord server. (Btw that didnt age well)    
  i. I should probably add more archiving sections but we'll see.        
- ii. Join the new server [Ahlul Qur'an اهل القران](https://discord.gg/dWWr75R72U).
+ ii. Join the new server [Ahlul Qur'an اهل القران](https://discord.gg/).
 
 # Abrahamic Quotes
 The quotes that made it and that didn't made it to the official #quotes.    
