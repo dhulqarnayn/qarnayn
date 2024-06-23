@@ -4,13 +4,14 @@
 ## [[Home](index.md)] [[About Me](ABOUT.md)] [[Notes](NOTES.md)] [[Discord](DISCORD.md)] [[News](news.md)]
 
 # QARNAYN: Discord
-All quotes are from [The Abrahamics](https://discord.gg/the-abrahamics-853686659099000873) discord server.     
- i. I should probably add more archiving sections but we'll see.
+All quotes are from The Abrahamics discord server. (Btw that didnt age well)    
+ i. I should probably add more archiving sections but we'll see.        
+ ii. Join the new server [Ahlul Qur'an اهل القران](https://discord.gg/dWWr75R72U).
 
-# Quotes
+# Abrahamic Quotes
 The quotes that made it and that didn't made it to the official #quotes.    
 Categorized them in their own directories   
-- [04.05.2024](/quotes/04052024/04052024.md) - compiling
+- [04.05.2024](/quotes/04052024/04052024.md) 
 - [03.05.2024](/quotes/03052024/03052024.md)
 - [02.05.2024](/quotes/02052024/02052024.md)
 - [01.05.2024](/quotes/01052024.md)    
