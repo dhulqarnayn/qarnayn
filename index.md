@@ -14,6 +14,9 @@
 - Added black mode forever :). - Idea from Frazeen
 
 # News
+1. 23.06.2024                
+   i. Updated the website.
+
 1. 04.05.2024       
   i. Been busy lately!       
   ii. Starting to work on News now
