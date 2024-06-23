@@ -7,6 +7,7 @@
 
 # Testing Area
 [testzone.md](/test/testzone.md)
+[The Abrahamics](https://discord.gg/the-abrahamics-853686659099000873)
 
 - add a code to enter to Admin
 
