@@ -6,12 +6,12 @@
 # QARNAYN
 
 # Important
+- The Abrahamics got deleted الحمدلله
+- The archives will not get deleted.
+
 - Starting to work on News!
 - Been busy lately!!
 - Added black mode forever :). - Idea from Frazeen
-
-- [Quotes 02.05.2024](/quotes/02052024/02052024.md) is now published
-- [Quotes 04.05.2024](/quotes/04052024/04052024.md) is now compiling, please send me your quotes in DMs.
 
 # News
 1. 04.05.2024       
