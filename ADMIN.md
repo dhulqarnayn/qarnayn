@@ -8,6 +8,7 @@
 # Testing Area
 [testzone.md](/test/testzone.md)
 [The Abrahamics](https://discord.gg/the-abrahamics-853686659099000873)
+[Ahlul Qur'an اهل القران](https://discord.gg/dWWr75R72U).
 
 - add a code to enter to Admin
 
