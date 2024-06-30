@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04557231-1ea6-4963-b06a-2ea9b9a8c646" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/chronicles.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABOUT.md" beforeDir="false" afterPath="$PROJECT_DIR$/ABOUT.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADMIN.md" beforeDir="false" afterPath="$PROJECT_DIR$/ADMIN.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DISCORD.md" beforeDir="false" afterPath="$PROJECT_DIR$/DISCORD.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NOTES.md" beforeDir="false" afterPath="$PROJECT_DIR$/NOTES.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotes/02052024/02052024.md" beforeDir="false" afterPath="$PROJECT_DIR$/quotes/02052024/02052024.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quotes/03052024/03052024.md" beforeDir="false" afterPath="$PROJECT_DIR$/quotes/03052024/03052024.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news.md" beforeDir="false" afterPath="$PROJECT_DIR$/news.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +30,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="ruh" />

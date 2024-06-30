@@ -1,8 +1,7 @@
 <link rel="icon" href="favicon.ico">
 <link rel="stylesheet" href="https://dhulqarnayn.github.io/qarnayn/index.css">
 
-## [[Home](index.md)] [[About Me](ABOUT.md)] [[Notes](NOTES.md)] [[Discord](DISCORD.md)] [[News](news.md)]
-
+## [[Home](index.md)] [[About Me](ABOUT.md)] [[Notes](NOTES.md)] [[Discord](DISCORD.md)] [[News](news.md)] [[Chronicles](chronicles.md)]
 # QARNAYN: Discord
 All quotes are from The Abrahamics discord server. (Btw that didnt age well)    
  i. I should probably add more archiving sections but we'll see.        

@@ -1,8 +1,7 @@
 <link rel="icon" href="favicon.ico">
 <link rel="stylesheet" href="https://dhulqarnayn.github.io/qarnayn/index.css">
 
-## [[Home](index.md)] [[About Me](ABOUT.md)] [[Notes](NOTES.md)] [[Discord](DISCORD.md)] [[News](news.md)]
-
+## [[Home](index.md)] [[About Me](ABOUT.md)] [[Notes](NOTES.md)] [[Discord](DISCORD.md)] [[News](news.md)] [[Chronicles](chronicles.md)]
 # QARNAYN: About Me
 
 # Information
@@ -11,7 +10,7 @@
   ii. From: Bulgaria        
   iii. Hanafi Muslim
 3. Social media    
-  i. Discord: _qarnayn    
+  i. Discord: muqaatil   
   ii. Instagram: israildemerci
 
 <img src="images/icon.jpg" width="150" height="150">
