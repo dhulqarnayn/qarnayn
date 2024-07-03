@@ -5,6 +5,10 @@
 # QARNAYN: Notes
 
 # Website things
+- 03.07.2024    
+  i. Revamped the [About Me](ABOUT.md) and now looks a bit better     
+  ii. Added a new image in my About Me     
+
 - 30.06.2024       
   i. Working on a section called "Chronicles", I'll use it like a blog.      
   ii. I'll start working on the new server soon ان شاء الله

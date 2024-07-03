@@ -5,21 +5,22 @@
 # QARNAYN
 
 # Important
+- Revamped [About Me](ABOUT.md)
 - The Abrahamics got deleted الحمدلله
 - The archives will not get deleted.
 
 - Starting to work on News!
 - Been busy lately!!
-- Added black mode forever :). - Idea from Frazeen
 
 # News
-1. 30.06.2024   
-i. Working on a section called "Chronicles", I'll use it like a blog.    
-ii. I'll start working on the new server soon ان شاء الله    
+1. 03.07.2024    
+  i. Revamped the [About Me](ABOUT.md) and now looks a bit better     
+  ii. Added a new image in my About Me
 
+2. 30.06.2024      
+  i. Working on a section called "Chronicles", I'll use it like a blog.    
+  ii. I'll start working on the new server soon ان شاء الله    
 
-1. 23.06.2024                
-   i. Updated the website.
 
 # TESTING AREA
 
