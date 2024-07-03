@@ -5,26 +5,21 @@
 # QARNAYN: About Me
 
 # Information
-1. About me    
-  i. Name: Qarnayn    
-  ii. From: Bulgaria        
-  iii. Muslim
-2. Social media    
-  i. Discord: muqaatil   
-  ii. Instagram: israildemerci
-
 <div class="imageflex">
-<img src="images/icon.jpg" width="150" height="150">
-<p class="imageflexcontent">
-2. Social media    
-  <br />
-  i. Discord: muqaatil   
-  <br />
-  ii. Instagram: israildemerci
-</p>
-</div>
+<img src="images/icon.jpg" width="250" height="250">
+<pre class="imageflexcontent">
 
-<img src="images/icon.jpg" width="150" height="150">
+1. About me
+  i. Name: Qarnayn
+  ii. From: Bulgaria
+  iii. Muslim
+
+
+2. Social media
+  i. Discord: muqaatil
+  ii. Instagram: israildemerci
+</pre>
+</div>
 
 # Interests
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
