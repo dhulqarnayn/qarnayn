@@ -8,7 +8,7 @@
 1. About me    
   i. Name: Qarnayn    
   ii. From: Bulgaria        
-  iii. Hanafi Muslim
+  iii. Muslim
 3. Social media    
   i. Discord: muqaatil   
   ii. Instagram: israildemerci
