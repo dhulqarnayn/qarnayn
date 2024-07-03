@@ -16,10 +16,10 @@
 <div class="imageflex">
 <img src="images/icon.jpg">
 <p class="imageflexcontent">
-2. Social media    </p>
-<p class="imageflexcontent">
-  i. Discord: muqaatil   </p>
-<p class="imageflexcontent">
+2. Social media    
+  <br />
+  i. Discord: muqaatil   
+  <br />
   ii. Instagram: israildemerci
 </p>
 </div>
