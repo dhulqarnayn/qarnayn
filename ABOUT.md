@@ -14,7 +14,7 @@
   ii. Instagram: israildemerci
 
 <div class="imageflex">
-<img src="images/icon.jpg">
+<img src="images/icon.jpg" width="150" height="150">
 <p class="imageflexcontent">
 2. Social media    
   <br />
