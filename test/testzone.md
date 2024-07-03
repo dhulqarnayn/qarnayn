@@ -18,6 +18,11 @@ Most of the things here are either very broken or don't work
   <p class="imageflexcontent">Photo by <a href="https://unsplash.com/@filipz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Filip Zrnzević</a> on <a href="https://unsplash.com/s/photos/forest?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></p>
 </div>
 
+<div class="imageflex">
+  <img src="../images/icon.jpg" height="280px">
+
+  <p class="imageflexcontent">Photo by <a href="https://unsplash.com/@filipz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Filip Zrnzević</a> on <a href="https://unsplash.com/s/photos/forest?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></p>
+</div>
 
 ### Randomness
 - <p>Lorem ipsum dolor sit amet</p>

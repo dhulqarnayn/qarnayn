@@ -9,9 +9,18 @@
   i. Name: Qarnayn    
   ii. From: Bulgaria        
   iii. Muslim
-3. Social media    
+2. Social media    
   i. Discord: muqaatil   
   ii. Instagram: israildemerci
+
+<div class="imageflex">
+<img src="/images/icon.jpg">
+<p class="imageflexcontent">
+2. Social media    
+  i. Discord: muqaatil   
+  ii. Instagram: israildemerci
+</p>
+</div>
 
 <img src="images/icon.jpg" width="150" height="150">
 
