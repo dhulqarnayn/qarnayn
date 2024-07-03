@@ -6,8 +6,8 @@
 This is a page about News, both from the Discord server and from the world!
 
 <h2>Discord News</h2>
-### [QARNAYN: Abrahamic News](/News/abrahamicnews.md)   
-Click [here](/news/abrahamicnews.md) to go to The Abrahamics Discord server news section
+~~QARNAYN: Abrahamic News~~   
+~~Click here to go to The Abrahamics Discord server news section~~
 
 <h2>World News</h2>
 ### [QARNAYN: Global News](/News/globalnews.md)
