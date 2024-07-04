@@ -5,6 +5,7 @@
 # QARNAYN
 
 # Important
+- Gonna add all quotes in Quotes soon
 - Revamped [About Me](ABOUT.md)
 - The Abrahamics got deleted الحمدلله
 - The archives will not get deleted.
