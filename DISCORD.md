@@ -5,9 +5,15 @@
 # QARNAYN: Discord
 All quotes are from The Abrahamics discord server. (Btw that didnt age well)    
  i. I should probably add more archiving sections but we'll see.        
- ii. Join the new server [Ahlul Qur'an اهل القران](https://discord.gg/).
+ ii. Join the new server [Ahlul Qur'an اهل القران](https://discord.gg/) (btw the link doesnt work for now).
 
-# Abrahamic Quotes
+# Ahlul Qur'an Quotes
+Contact me at my Discord for submissions :)
+
+- [12.01.1446 AH](/ahlulquran/quotes/12.01.1446h/12011446AH.md)
+- [11.01.1446 AH](/ahlulquran/quotes/11.01.1446h/11011446AH.md)
+
+## Abrahamic Quotes
 The quotes that made it and that didn't made it to the official #quotes.    
 Categorized them in their own directories   
 - [04.05.2024](/quotes/04052024/04052024.md) 
@@ -28,7 +34,9 @@ vii. Memelogicmind (ukthi?)
 viii. Ford Falcon XR6 (got the rizz)     
 ix. Will (the one being rizz'd)     
 x. Pale (banned :( )    
-xi. jurrasiczilla (wth is your name bro | epico 2)
+xi. jurrasiczilla (wth is your name bro | epico 2)         
+xii. Ciro      
+xiii. Yakman
 
 # Requests
 If you want a specific message(s) to be archived then please contact me on Discord

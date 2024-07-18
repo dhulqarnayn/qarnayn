@@ -5,7 +5,7 @@
 # QARNAYN
 
 # Important
-- Working on a Quotes section from the new Discord server :)
+- Added new Quotes!!!! Check them out now at [Discord](DISCORD.md)
 
 - Gonna add all quotes in Quotes soon
 - Revamped [About Me](ABOUT.md)
@@ -14,7 +14,8 @@
 
 # News
 1. 18.07.2024         
-  i. Working on quotes from the new Discord server :)
+  i. Working on quotes from the new Discord server :)   
+  ii. Added Ahlul Qur'an quotes.
 
 1. 03.07.2024    
   i. Revamped the [About Me](ABOUT.md) and now looks a bit better     
