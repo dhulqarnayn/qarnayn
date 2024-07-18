@@ -5,6 +5,9 @@
 # QARNAYN: Notes
 
 # Website things
+- 18.07.2024         
+   i. Working on quotes from the new Discord server :)
+
 - 03.07.2024    
   i. Revamped the [About Me](ABOUT.md) and now looks a bit better     
   ii. Added a new image in my About Me     

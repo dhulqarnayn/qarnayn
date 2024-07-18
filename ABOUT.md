@@ -10,14 +10,14 @@
 <pre class="imageflexcontent">
 
 1. About me
-  i. Name: Qarnayn
+  i. Name: Israil
   ii. From: Bulgaria
-  iii. Muslim
+  iii. Shafi'i Muslim
 
 
 2. Social media
-  i. Discord: muqaatil
-  ii. Instagram: israildemerci
+  i. Discord: ysrel
+  ii. Instagram: ysrelzltnv
 </pre>
 </div>
 

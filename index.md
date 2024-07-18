@@ -5,15 +5,17 @@
 # QARNAYN
 
 # Important
+- Working on a Quotes section from the new Discord server :)
+
 - Gonna add all quotes in Quotes soon
 - Revamped [About Me](ABOUT.md)
 - The Abrahamics got deleted الحمدلله
 - The archives will not get deleted.
 
-- Starting to work on News!
-- Been busy lately!!
-
 # News
+1. 18.07.2024         
+  i. Working on quotes from the new Discord server :)
+
 1. 03.07.2024    
   i. Revamped the [About Me](ABOUT.md) and now looks a bit better     
   ii. Added a new image in my About Me
