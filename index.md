@@ -5,7 +5,7 @@
 # QARNAYN
 
 # Important
-- working on dropping something massive about deviants at [Deviants](/ahlulquran/deviants/deviants.html)
+- working on dropping something massive about deviants at [Deviants](https://dhulqarnayn.github.io/qarnayn/ahlulquran/deviants/deviants.html)
 - Added new Quotes!!!! Check them out now at [Discord](DISCORD.md)
 
 - Gonna add all quotes in Quotes soon

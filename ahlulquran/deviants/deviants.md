@@ -8,4 +8,4 @@
 ### Ahlus Sunnah and deviated sects
 
 1. [Ashariyyah]
-2. [Maturidiyyah](/maturidi.html)
+2. [Maturidiyyah](https://dhulqarnayn.github.io/qarnayn/ahlulquran/deviants/maturidi.html)
