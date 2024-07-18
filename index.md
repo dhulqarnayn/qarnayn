@@ -3,20 +3,18 @@
 
 ## [[Home](index.md)] [[About Me](ABOUT.md)] [[Notes](NOTES.md)] [[Discord](DISCORD.md)] [[News](news.md)] [[Chronicles](chronicles.md)]
 # QARNAYN
+[Deviants](https://dhulqarnayn.github.io/qarnayn/ahlulquran/deviants/deviants.html)
 
 # Important
 - working on dropping something massive about deviants at [Deviants](https://dhulqarnayn.github.io/qarnayn/ahlulquran/deviants/deviants.html)
 - Added new Quotes!!!! Check them out now at [Discord](DISCORD.md)
-
-- Gonna add all quotes in Quotes soon
 - Revamped [About Me](ABOUT.md)
-- The Abrahamics got deleted الحمدلله
-- The archives will not get deleted.
 
 # News
 1. 18.07.2024         
   i. Working on quotes from the new Discord server :)   
-  ii. Added Ahlul Qur'an quotes.
+  ii. Added Ahlul Qur'an quotes.                  
+  iii. Added [Deviants](https://dhulqarnayn.github.io/qarnayn/ahlulquran/deviants/deviants.html)
 
 1. 03.07.2024    
   i. Revamped the [About Me](ABOUT.md) and now looks a bit better     

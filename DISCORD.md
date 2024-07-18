@@ -10,6 +10,7 @@ All quotes are from The Abrahamics discord server. (Btw that didnt age well)
 # Ahlul Qur'an Quotes
 Contact me at my Discord for submissions :)
 
+- [13.01.1446 AH](/ahlulquran/quotes/13.01.1446h/13011446.html) [Compiling]
 - [12.01.1446 AH](/ahlulquran/quotes/12.01.1446h/12011446AH.md)
 - [11.01.1446 AH](/ahlulquran/quotes/11.01.1446h/11011446AH.md)
 
