@@ -4,7 +4,7 @@
 ### [QARNAYN: Deviants](https://dhulqarnayn.github.io/qarnayn/ahlulquran/deviants/deviants.html)
 
 # QARNAYN: Maturidiyyah
-### WORK IN PROGRESS
+
 The Maturidis are a kalami (philosophical group) based on innovation (bid‘ah); they are named after Abu Mansur al-Maturidi.
 
 In the beginning, their main focus was on using rational and philosophical proof in disputing with their opponents, the Mu‘tazilah, Jahmis and others, in order to prove the fundamentals of Islam and Islamic beliefs.
