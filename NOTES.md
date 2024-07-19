@@ -5,6 +5,11 @@
 # QARNAYN: Notes
 
 # Website things
+- 19.07.2024                  
+  i. The website fails to get updated due to an outage on 3rd party software "CrowdStrike"           
+  ii. Continuing to work on some parts of the website while CrowdStrike solves their issues :)               
+  iii. Wrote about it in News (finally putted some use into that :D). [Check it out by clicking here](/News/globalnews.html)
+
 - 18.07.2024         
    i. Working on quotes from the new Discord server :)          
    ii. Added Ahlul Qur'an quotes.           

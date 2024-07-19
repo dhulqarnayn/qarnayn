@@ -1,4 +1,4 @@
-<link rel="icon" href="favicon.ico">
+<link rel="icon" href="https://dhulqarnayn.github.io/qarnayn/favicon.ico">
 <link rel="stylesheet" href="https://dhulqarnayn.github.io/qarnayn/index.css">
 
 ### [QARNAYN: Deviants](https://dhulqarnayn.github.io/qarnayn/ahlulquran/deviants/deviants.html)

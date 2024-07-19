@@ -28,16 +28,15 @@ Categorized them in their own directories
 i. Behe (been banned 3 times already from discord)   
 ii. Octo (big chadus)    
 iii. Victor(ia)    
-iv. Ayman (please find him a wife)    
+iv. Ciro    
 v. Alithron (smart)     
 vi. Qashi (yoshi thy sqoshy)    
 vii. Memelogicmind (ukthi?)     
 viii. Ford Falcon XR6 (got the rizz)     
-ix. Will (the one being rizz'd)     
-x. Pale (banned :( )    
+ix. Yakman   
+x. Pale (banned :( twice )    
 xi. jurrasiczilla (wth is your name bro | epico 2)         
-xii. Ciro      
-xiii. Yakman
+
 
 # Requests
 If you want a specific message(s) to be archived then please contact me on Discord
