@@ -6,12 +6,14 @@
 [Deviants](https://dhulqarnayn.github.io/qarnayn/ahlulquran/deviants/deviants.html)
 
 # Important
+- MIGRATING THE WEB! We are going to be moving the server in the following months to a new website and be using a new domain name!
 - **_CrowdStrike issue causes delays on my website's update process. If you're seeing this, it should be patched already._**
 - working on dropping something massive about deviants at [Deviants](https://dhulqarnayn.github.io/qarnayn/ahlulquran/deviants/deviants.html)
-- Added new Quotes!!!! Check them out now at [Discord](DISCORD.md)
-- Revamped [About Me](ABOUT.md)
+
 
 # News
+1. 17.08.2025
+  i. Updates regarding closer of this website and migration to a new page.
 1. 19.07.2024        
   i. The website fails to get updated due to an outage on 3rd party software "CrowdStrike"         
   ii. Continuing to work on some parts of the website while CrowdStrike solves their issues :)      
