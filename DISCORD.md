@@ -5,12 +5,14 @@
 # QARNAYN: Discord
 All quotes are from The Abrahamics discord server. (Btw that didnt age well)    
  i. I should probably add more archiving sections but we'll see.        
- ii. Join the new server [Ahlul Qur'an اهل القران](https://discord.gg/) (btw the link doesnt work for now).
+ ii. Join the new server [Majlis al-Athar](https://discord.gg/jdgWkbcJJW).
 
-# Ahlul Qur'an Quotes
+# Majlis al-Athar Quotes
+iA
 Contact me at my Discord for submissions :)
 
-- [13.01.1446 AH](/ahlulquran/quotes/13.01.1446h/13011446.html) [Compiling]
+# Ahlul Qur'an Quotes
+- [13.01.1446 AH](/ahlulquran/quotes/13.01.1446h/13011446.html)
 - [12.01.1446 AH](/ahlulquran/quotes/12.01.1446h/12011446AH.md)
 - [11.01.1446 AH](/ahlulquran/quotes/11.01.1446h/11011446AH.md)
 
